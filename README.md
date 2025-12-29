@@ -234,3 +234,13 @@ Copyright (C) 2017,  Ashhar Farhan
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+
+
+NOTES + CHANGES AF
+
+START
+Advanced Memory Usage is available via "PlatformIO Home > Project Inspect"
+RAM:   [======    ]  61.6% (used 1261 bytes from 2048 bytes)
+Flash: [==========]  100.0% (used 30714 bytes from 30720 bytes)
+Building .pio\build\nanoatmega328\firmware.hex
